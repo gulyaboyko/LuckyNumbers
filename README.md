@@ -1,7 +1,7 @@
 # LuckyNumbers
 
 Результаты теста:
-Test #0 = false
+Test #0 = false/n
 Test #1 = false
 Test #2 = false
 Test #3 = false
